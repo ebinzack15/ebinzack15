@@ -13,7 +13,7 @@ Python developer with experience in building web applications and a passion for 
 - :robot: Head Pose Estimation using Mediapipe: This application is developed using Javascript. It used Mediapipe’s FaceMesh to get the Facial Keypoints and converts them into points in 3D space. Demo Link - https://proctoring-faffc.firebaseapp.com/
 - :motorcycle: Motorcycle Helmet Detection using YOLOv4: The model detects Helmet, Non-Helmet and the entire rider+bike. If we find a person not wearing a helmet inside the entire rider+bike bounding box, the bike is sent for ANPR.
 
-## Education 📚
+## Certifications 📚
 - :mortar_board: Deep Reinforcement Learning by Udacity, 2020.
 - :mortar_board: Machine Learning by Stanford University, 2020.
 
